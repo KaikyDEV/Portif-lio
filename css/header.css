@@ -23,11 +23,11 @@ header nav a {
 
 }
 
-header h1, a{
+header h1, a {
     color: #0fca7d;
     transition: 0.2s ease-in-out;
 }
 
-header a:hover, h1:hover    {
+header a:hover, h1:hover {
     color: #fff;
 }
