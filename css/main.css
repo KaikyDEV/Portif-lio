@@ -42,7 +42,8 @@ main .techs .cards-conteiner .card{
     padding: 10px;
     background-color: #eee;
     border-radius: 8px;
-    margin-right: 1.8em;
+    margin-right: 1.9em;
+    margin-left: 1.9em;
     cursor: pointer;
     display: flex;
     align-items: center;
